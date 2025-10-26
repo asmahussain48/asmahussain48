@@ -21,8 +21,6 @@
 
 ## 🎯 About Me
 
-## 🎯 About Me
-
 I am a **Computer Science student at Sukkur IBA University, Pakistan**, with a strong foundation in programming and a passion for developing practical solutions. I have completed my Intermediate in Computer Science and have continued to build my skill set through hands-on projects and academic learning.
 
 I work with multiple programming languages including **C, C++, Java, Python**, and also have experience in **web development (HTML, CSS)** and **database systems (SQL, MySQL)**. I enjoy creating **Java desktop applications** using Swing and MySQL, as well as exploring the world of **data science**, including data analysis, visualization, EDA, pattern mining, and basic machine learning techniques.
