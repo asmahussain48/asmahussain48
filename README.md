@@ -21,8 +21,14 @@
 
 ## 🎯 About Me
 
-**Hi 👋, I'm Asma Hussain**, a Computer Science student from Pakistan, currently focusing on **Java** and modern **web fundamentals**.  
-I love turning small ideas into working apps and learning by building.
+## 🎯 About Me
+
+I am a **Computer Science student at Sukkur IBA University, Pakistan**, with a strong foundation in programming and a passion for developing practical solutions. I have completed my Intermediate in Computer Science and have continued to build my skill set through hands-on projects and academic learning.
+
+I work with multiple programming languages including **C, C++, Java, Python**, and also have experience in **web development (HTML, CSS)** and **database systems (SQL, MySQL)**. I enjoy creating **Java desktop applications** using Swing and MySQL, as well as exploring the world of **data science**, including data analysis, visualization, EDA, pattern mining, and basic machine learning techniques.
+
+I am a dedicated and curious learner who believes in **learning by building**. I’m actively seeking opportunities in **software development** and **data-related roles** where I can contribute, grow, and make meaningful impact.
+
 
 **Currently:**
 - 🔭 Working on **small websites & UI experiments** → [`Small-Websities`](https://github.com/asmahussain48/Small-Websities)
