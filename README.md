@@ -28,10 +28,12 @@ I work with multiple programming languages including **C, C++, Java, Python**, a
 I am a dedicated and curious learner who believes in **learning by building**. I’m actively seeking opportunities in **software development** and **data-related roles** where I can contribute, grow, and make meaningful impact.
 
 
-**Currently:**
-- 🔭 Working on **small websites & UI experiments** → [`Small-Websities`](https://github.com/asmahussain48/Small-Websities)
-- 🌱 Learning **Java, JavaScript, HTML/CSS** (and a bit of MySQL)
-- 🎯 Goals: Strong OOP in Java, data structures, and full-stack basics
+## 🚀 Currently
+
+- 🔭 Working on **Data Structures & Algorithms (DSA)** → [**DSA**](https://github.com/asmahussain48/DSA)
+- 🌱 Learning **Java, JavaScript, HTML/CSS**, and exploring **MySQL**
+- 💡 Previously built **small websites & UI experiments** → [**Small-Websities**](https://github.com/asmahussain48/Small-Websities)
+- 🎯 Goals: Strengthen **OOP concepts in Java**, master **data structures & algorithms**, and gain **full-stack development** fundamentals
 
 ---
 
