@@ -1,104 +1,27 @@
-<div align="center">
-
-# Asma Hussain
-
-### Computer Science Student • Java Learner • Aspiring Full-Stack Developer
-
-*Building solid fundamentals in Java and web development while shipping small, useful projects.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-hussain-613325285)
-[![Portfolio](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asmahussain48)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/asmahussain48)
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asmahussain_48)
-
-![Profile Views](https://komarev.com/ghpvc/?username=asmahussain48&label=Profile%20Views&color=0A66C2&style=flat-square)
-![Followers](https://img.shields.io/github/followers/asmahussain48?style=flat-square&color=4CAF50)
-![Stars](https://img.shields.io/github/stars/asmahussain48?style=flat-square&color=FFD700)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I am a Computer Science student at Sukkur IBA University, Pakistan, with a strong foundation in programming and a passion for developing practical solutions. I work with C, C++, Java, Python, HTML, CSS, and SQL/MySQL, and enjoy building Java desktop applications using Swing and MySQL.
-
-I am also interested in data science, including data analysis, visualization, EDA, pattern mining, and basic machine learning. I believe in learning by building and am actively seeking opportunities in software development and data-related roles where I can grow and make meaningful impact.
+# 💫 About Me:
+📡 I’m currently working on<br>Building web development projects using HTML, CSS, JavaScript, React, and MongoDB while improving my full-stack development skills.<br><br>🤝 I’m looking to collaborate on<br>Web development projects, React-based apps, and beginner-friendly open-source contributions.<br><br>💡 I’m looking for help with<br>Advanced React concepts, backend development (Node.js/Express), and building scalable full-stack applications.<br><br>🌱 I’m currently learning<br>JavaScript (deep dive), React, MongoDB, and Software Engineering concepts while strengthening DSA.<br><br>💬 Ask me about<br>Web development basics, JavaScript, React learning journey, and building beginner projects.<br><br>⚡ Fun fact<br>I learn best by building real projects instead of just watching tutorials or reading theory.<br>
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/asmahussain_48) 
 
-## 🚀 Currently
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=asmahussain48&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=asmahussain48&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=asmahussain48&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 Working on **Data Structures & Algorithms (DSA)** → [**DSA**](https://github.com/asmahussain48/DSA)
-- 🌱 Learning **Java, JavaScript, HTML/CSS**, and exploring **MySQL**
-- 💡 Previously built **small websites & UI experiments** → [**Small-Websities**](https://github.com/asmahussain48/Small-Websities)
-- 🎯 Goals: Strengthen **OOP concepts in Java**, master **data structures & algorithms**, and gain **full-stack development** fundamentals
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=asmahussain48&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=asmahussain48&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=asmahussain48&icon=6&color=0)](https://visitcount.itsvg.in)
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-### Languages & Core
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/> &nbsp;
-
-### Web
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/> &nbsp;
-
-### Databases & Tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub"/> &nbsp;
-
-</div>
-
----
-
-## 💡 Featured Work
-
-### 🌐 Small Websites Collection
-**HTML • CSS • JavaScript**  
-A growing set of mini-projects to practice layouts, components, and simple interactivity.  
-➡️ Repo: **[`Small-Websities`](https://github.com/asmahussain48/Small-Websities)**
-
-### ☕ Java Practice Playground
-**Java • OOP • DSA**  
-Short exercises and mini-apps as I learn classes, inheritance, collections, and algorithms.  
-➡️ *(Create soon: `java-practice` repo—add link here when ready!)*
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=asmahussain48&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asmahussain48&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" width="49%" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmahussain48&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-hussain-613325285)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/asmahussain48)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asmahussain_48)
-
-</div>
-
----
-
-<div align="center">
-  <sub>✨ Learning every day. Building one project at a time.</sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
