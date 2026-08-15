@@ -68,17 +68,6 @@ I'm a passionate 5th-semester Computer Science student at Sukkur IBA University 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
----
-
-## 🎓 5th Semester Coursework
-
-| Course | Focus Area | Skills Gained |
-|--------|-----------|----------------|
-| **Advanced Database Management Systems** | Database design, optimization, indexing | SQL optimization, schema design, query performance |
-| **AI & Machine Learning** | ML fundamentals, algorithms | Supervised learning, model training, data preprocessing |
-| **Web Engineering** | Full-stack architecture | API design, backend systems, deployment |
-| **Software Engineering** | Development practices | Requirements analysis, testing, documentation |
-| **Data Structures & Algorithms** | Algorithm design | Problem-solving, optimization, complexity analysis |
 
 ---
 
