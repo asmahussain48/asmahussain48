@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asma Hussain
 
-**Full-Stack Web Developer | CS Student @ Sukkur IBA University** 
+**Web Developer | CS Student @ Sukkur IBA University** 
 <br/>
 *Building scalable applications and mastering modern web technologies*
 
