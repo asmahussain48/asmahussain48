@@ -1,14 +1,26 @@
-# 👋 Hi, I'm Asma Hussain
+<p align="center">
+    <a href="https://github.com/asmahussain48">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Asma%20Hussain!;Full-Stack%20Web%20Developer;5th%20Semester%20CS%20Student;Building%20Scalable%20Applications&font=Fira%20Code&center=true&width=680&height=50&color=ff79c6&vCenter=true&pause=1000&size=28" />
+    </a>
+</p>
 
-**Full-Stack Web Developer | CS Student @ Sukkur IBA University** 
-<br/>
-*Building scalable applications and mastering modern web technologies*
+<p align="center">
+    <a href="https://www.linkedin.com/in/asma-hussain-613325285/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/asmahussain48">
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>&nbsp;&nbsp;
+    <a href="https://discord.com/users/asmahussain_48">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate 5th-semester Computer Science student with a strong foundation in web development and backend systems. I learn best by **building real projects** rather than just consuming tutorials. My focus is on creating clean, maintainable code and solving complex problems through practical application.
+I'm a passionate 5th-semester Computer Science student at Sukkur IBA University with a strong foundation in web development and backend systems. I learn best by **building real projects** rather than just consuming tutorials. My focus is on creating clean, maintainable code and solving complex problems through practical application.
 
 - 🎯 **Currently:** Mastering full-stack web development (Node.js, Express, React, MongoDB)
 - 💡 **Passionate about:** Database design, API development, and scalable architecture
@@ -106,28 +118,36 @@ I'm a passionate 5th-semester Computer Science student with a strong foundation 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmahussain48&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-### 🔥 Contribution Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmahussain48&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-### 🏆 GitHub Achievements
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asmahussain48&theme=radical&hide_border=true)
 
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmahussain48&layout=donut-vertical&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmahussain48&theme=radical&layout=donut&hide_border=true)
 
-### 📈 Contribution Activity Graph
+---
+
+## 📈 Additional Stats
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmahussain48&theme=radical)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmahussain48&theme=radical)
+
+---
+
+## 👤 Profile Overview
+
+![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmahussain48&theme=radical)
+
+---
+
+## 📊 Contribution Activity
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=asmahussain48&theme=radical&hide_border=true&area=true)
 
-### 📌 Top Repositories
-![Repo Card 1](https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=task-api&theme=radical&hide_border=true)
-![Repo Card 2](https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=Resturant-Reservation&theme=radical&hide_border=true)
+---
 
-![Repo Card 3](https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=Web-Engineering-Labs&theme=radical&hide_border=true)
-![Repo Card 4](https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=pdf-report-generator&theme=radical&hide_border=true)
+## ✍️ Dev Quote
 
-</div>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -178,7 +198,7 @@ I'm actively looking for:
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=asmahussain_48)](https://discord.com/users/asmahussain_48)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/asmahussain_48)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asmahussain48)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-hussain-613325285/)
 
