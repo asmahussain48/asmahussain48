@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asma Hussain
 
-**Web Developer | CS Student @ Sukkur IBA University** 
+**Full-Stack Web Developer | CS Student @ Sukkur IBA University** 
 <br/>
 *Building scalable applications and mastering modern web technologies*
 
@@ -108,9 +108,24 @@ I'm a passionate 5th-semester Computer Science student with a strong foundation 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmahussain48&show_icons=true&theme=radical&hide_border=true)
+### 🔥 Contribution Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmahussain48&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmahussain48&layout=compact&theme=radical&hide_border=true)
+### 🏆 GitHub Achievements
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asmahussain48&theme=radical&hide_border=true)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmahussain48&layout=donut-vertical&theme=radical&hide_border=true)
+
+### 📈 Contribution Activity Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=asmahussain48&theme=radical&hide_border=true&area=true)
+
+### 📌 Top Repositories
+![Repo Card 1](https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=task-api&theme=radical&hide_border=true)
+![Repo Card 2](https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=Resturant-Reservation&theme=radical&hide_border=true)
+
+![Repo Card 3](https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=Web-Engineering-Labs&theme=radical&hide_border=true)
+![Repo Card 4](https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=pdf-report-generator&theme=radical&hide_border=true)
 
 </div>
 
