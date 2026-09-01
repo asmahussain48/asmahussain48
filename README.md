@@ -132,33 +132,6 @@ I'm a passionate 5th-semester Computer Science student at Sukkur IBA University 
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=asmahussain48&theme=radical&hide_border=true&area=true)
 
----
-
-## ✍️ Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🎯 What I'm Currently Working On
-
-- ✅ Deep-diving into **JavaScript** and **React** ecosystem
-- ✅ Building scalable **Node.js/Express** backend applications
-- ✅ Learning **database optimization** and **query performance**
-- ✅ Exploring **AI/ML** applications in web development
-- ✅ Contributing to **open-source** projects
-- ✅ Mastering **Software Engineering** best practices
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm actively looking for:
-- 🌐 **Web Development Projects** (Frontend & Full-stack)
-- ⚛️ **React-based Applications**
-- 🔧 **Backend API Development**
-- 📚 **Beginner-friendly Open Source** contributions
-- 💬 **Knowledge Exchange** on Web Dev & DSA
 
 ---
 
@@ -170,16 +143,6 @@ I'm actively looking for:
 - JavaScript and React fundamentals
 - Backend API development (Node.js/Express)
 - Problem-solving with Data Structures & Algorithms
-
----
-
-## ⚡ Fun Facts
-
-- 🎮 I learn best by **building real projects** instead of just watching tutorials
-- 🧠 I believe in understanding **fundamentals deeply** before jumping to complex frameworks
-- 🚀 I'm fascinated by how systems **scale** and handle real-world data
-- 📈 I track my progress through **GitHub contributions** and **completed projects**
-- 🤖 Excited about the intersection of **AI/ML and web development**
 
 ---
 
