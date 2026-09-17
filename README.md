@@ -105,47 +105,6 @@ I'm a passionate 5th-semester Computer Science student at Sukkur IBA University 
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmahussain48&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asmahussain48&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmahussain48&theme=radical&layout=donut&hide_border=true)
-
----
-
-## 📈 Additional Stats
-
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmahussain48&theme=radical)
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmahussain48&theme=radical)
-
----
-
-## 👤 Profile Overview
-
-![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmahussain48&theme=radical)
-
----
-
-## 📊 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=asmahussain48&theme=radical&hide_border=true&area=true)
-
-
----
-
-## 💬 Ask Me About
-
-- Building responsive web applications
-- Full-stack development with MERN stack
-- Database design and optimization
-- JavaScript and React fundamentals
-- Backend API development (Node.js/Express)
-- Problem-solving with Data Structures & Algorithms
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -158,18 +117,6 @@ I'm a passionate 5th-semester Computer Science student at Sukkur IBA University 
 
 ---
 
-## 📈 Current Focus Areas for Growth
-
-```
-Frontend Development    ████████░░ 80%  (React, JavaScript)
-Backend Development    ███████░░░ 70%  (Node.js, Express, APIs)
-Database Design       ██████░░░░ 60%  (SQL optimization, MongoDB)
-Machine Learning      █████░░░░░ 50%  (Learning phase)
-System Design        ██████░░░░ 60%  (Architecture, scalability)
-Data Structures     ███████░░░ 70%  (DSA & problem-solving)
-```
-
----
 
 <div align="center">
 
