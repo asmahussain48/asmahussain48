@@ -1,3 +1,18 @@
+<!-- ===================== HEADER (LinkedIn-style banner, no extra files needed) ===================== -->
+<p align="center">
+  <sub>C O D E &nbsp;·&nbsp; L E A R N &nbsp;·&nbsp; S O L V E &nbsp;·&nbsp; G R O W</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbe9fc,100:bcd4f8&height=240&section=header&text=Asma%20Hussain&fontColor=0c2a5c&fontSize=60&fontAlignY=36&desc=Programmer%20%C2%B7%20CS%20Student%20%C2%B7%20Web%20Developer&descSize=24&descAlignY=56" alt="Asma Hussain · Programmer · CS Student · Web Developer" width="100%" />
+</p>
+
+<p align="center">
+  <sub><b>I B A ' 2 8 &nbsp;·&nbsp; S U K K U R &nbsp; I B A &nbsp; U N I V E R S I T Y</b></sub><br/>
+  <i>Turning ideas into meaningful solutions.</i>
+</p>
+
+<!-- ===================== TYPING ANIMATION (kept as it was) ===================== -->
 <p align="center">
     <a href="https://github.com/asmahussain48">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Asma%20Hussain!;Full-Stack%20Web%20Developer;5th%20Semester%20CS%20Student;Building%20Scalable%20Applications&font=Fira%20Code&center=true&width=680&height=50&color=ff79c6&vCenter=true&pause=1000&size=28" />
@@ -5,123 +20,160 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/asma-hussain-613325285/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>&nbsp;&nbsp;
-    <a href="https://github.com/asmahussain48">
-        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>&nbsp;&nbsp;
-    <a href="https://discord.com/users/asmahussain_48">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
+  <a href="https://portfolio-gamma-three-ipnvmahjkc.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff79c6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/asma-hussain-613325285/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://github.com/asmahussain48"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
+  <a href="https://discord.com/users/asmahussain_48"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;
+  <a href="mailto:asma.hussain.mughal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asmahussain48&label=Profile%20views&color=ff79c6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate 5th-semester Computer Science student at Sukkur IBA University with a strong foundation in web development and backend systems. I learn best by **building real projects** rather than just consuming tutorials. My focus is on creating clean, maintainable code and solving complex problems through practical application.
+I'm a 5th-semester Computer Science student at **Sukkur IBA University** who learns by **building real things**. Web apps, a Java desktop app, console tools, and AI-powered products. I like figuring out how systems fit together and shipping things that actually work.
 
-- 🎯 **Currently:** Mastering full-stack web development (Node.js, Express, React, MongoDB)
-- 💡 **Passionate about:** Database design, API development, and scalable architecture
-- 🌱 **Learning:** Advanced backend systems, AI/ML fundamentals, and database optimization
-- ✍️ **Philosophy:** Learn by building, iterate through feedback, contribute to open source
-- 📍 **Location:** Sukkur, Pakistan
+```js
+const asma = {
+  role: "Full-Stack Developer · AI Engineering Intern",
+  studying: "BS Computer Science @ Sukkur IBA University",
+  internship: "Backend AI Engineering @ FlyRank.ai (Jul – Sep 2026)",
+  hackathon: "SIBATHON 2026 — built CartIQ, an AI-powered e-commerce platform",
+  currentlyExploring: ["LLM APIs", "Speech-to-Text", "Backend architecture", "Browser extensions"],
+  philosophy: "Learn by building. Iterate through feedback.",
+  location: "Sukkur, Pakistan 🇵🇰",
+  openTo: ["Internships", "Collaborations", "Interesting problems"],
+};
+```
 
 ---
 
 ## 💻 Tech Stack
 
-### **Languages**
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,nodejs,express,flask,fastapi&perline=9" alt="Languages and backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,mongodb,mysql,sqlite,git,github,vercel&perline=9" alt="Frontend, databases and tools" />
+</p>
 
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### **Databases & Data**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### **Data Science & Analytics**
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI%20Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-ff79c6?style=flat-square" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/JDBC-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🛒 [E-commerce Application](https://github.com/asmahussain48/E-commerce-Java)
-**Java | Swing | MySQL**
-- Full-featured desktop e-commerce system
-- Database-driven inventory management
-- User authentication and role-based access
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/asmahussain48/RecallMe-Ai-Web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=RecallMe-Ai-Web&theme=dracula&hide_border=true" alt="RecallMe" />
+      </a>
+      <br/><sub>🎙️ Audio → live transcript (Whisper) + AI study assistant</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/asmahussain48/TeachSquad-SIBATHON-2026">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=TeachSquad-SIBATHON-2026&theme=dracula&hide_border=true" alt="CartIQ" />
+      </a>
+      <br/><sub>🛒 AI e-commerce: recommendations, sentiment, forecasting</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/asmahussain48/Resturant-Reservation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=Resturant-Reservation&theme=dracula&hide_border=true" alt="Restaurant Reservation" />
+      </a>
+      <br/><sub>🍽️ Booking platform with admin dashboard · <a href="https://resturant-reservation-ten.vercel.app/">Live demo</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/asmahussain48/llm-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=llm-api&theme=dracula&hide_border=true" alt="LLM Support Triage" />
+      </a>
+      <br/><sub>🧠 Internship project: LLM triage with schema validation + evals</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/asmahussain48/PhoneClub_DBMS_Project_Code">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=PhoneClub_DBMS_Project_Code&theme=dracula&hide_border=true" alt="PhoneClub" />
+      </a>
+      <br/><sub>📱 Phone store: cart, wishlist, orders, admin panel</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/asmahussain48/student-study-planner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=student-study-planner&theme=dracula&hide_border=true" alt="Student Study Planner" />
+      </a>
+      <br/><sub>📚 Tasks, Gemini study assistant, PDF reports</sub>
+    </td>
+  </tr>
+</table>
 
-### 📊 [Restaurant Reservation System](https://github.com/asmahussain48/Resturant-Reservation)
-**Node.js | Express | MongoDB | EJS | Tailwind CSS**
-- Weekly table booking with 2-hour time slots
-- Admin and user role management
-- Responsive UI with modern styling
+### ⚡ Try them live
 
-### 📝 [Task Management API](https://github.com/asmahussain48/task-api)
-**Python | Flask | RESTful API**
-- Complete CRUD operations
-- Authentication & authorization
-- Database-backed task tracking
+| | | |
+|---|---|---|
+| 🍽️ [Restaurant Reservation](https://resturant-reservation-ten.vercel.app/) | 🎯 [GradeFlow GPA Calculator](https://gpa-and-cgpa-calculator-eight.vercel.app/) | ⏱️ [Pomodoro Timer](https://pomodoro-timer-lyart-five.vercel.app/) |
 
-### 🔄 [PDF Report Generator](https://github.com/asmahussain48/pdf-report-generator)
-**Python**
-- Dynamic PDF generation
-- Template-based reporting
-- Data visualization in reports
-
-### 🎯 [Pomodoro Timer](https://github.com/asmahussain48/Pomodoro)
-**JavaScript | HTML | CSS**
-- Productivity timer with customization
-- Local storage for sessions
-- Clean, intuitive UI
+Also: [Java Desktop E-Commerce](https://github.com/asmahussain48/-E-Commerce-Application) (Swing + JDBC + MySQL) · [GradeFlow](https://github.com/asmahussain48/gpa-and-cgpa-calculator) · [Pomodoro Timer](https://github.com/asmahussain48/pomodoro-timer)
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asmahussain48&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmahussain48&layout=compact&theme=dracula&hide_border=true&langs_count=7" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=asmahussain48&theme=dracula&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmahussain48&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+</p>
+
+---
+
+## 🎓 Certifications & Experience
+
+- 💼 **Backend AI Engineering Intern**, FlyRank.ai (Remote, Jul – Sep 2026)
+- 📜 Data Structures and Algorithms: Amazon · Coursera
+- 📜 Introduction to Software Engineering: IBM · Coursera
+- 📜 Getting Started with Git and GitHub: IBM · Coursera
+- 📜 Software Development Job Simulation: Datacom · Forage
+- 📜 AI for Beginners: HP LIFE & HP Foundation
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  Looking for someone to build with, or want to see how any of these projects work? Reach out.
+</p>
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/asmahussain_48)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asmahussain48)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff79c6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gamma-three-ipnvmahjkc.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-hussain-613325285/)
-
-</div>
-
----
-
-
-<div align="center">
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/asmahussain_48)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asma.hussain.mughal@gmail.com)
 
 ### ✨ *"Code is poetry written for machines and humans alike."* ✨
 
-**Last Updated:** August 2026 | **5th Semester** | **Sukkur IBA University**
-
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:eaf2fd,100:bcd4f8&section=footer" alt="footer wave" />
+</p>
